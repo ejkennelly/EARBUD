@@ -18,7 +18,7 @@ The following technologies were used in the construction of EarBud:
 * .env
 
 ## Installation
-When installing Earbud, an NPM should be run for the dependencies, a SQL db needs to be created, and a .env file needs to be created with individual login credentials.
+When installing Earbud, an NPM should be run for the dependencies, a SQL db needs to be created, and a .env file needs to be created with individual login credentials. [link to deployed site](https://earbudteam8.herokuapp.com/)
 
 ## Usage
 EarBud is designed for personal usage as an entertainment/social product, a way for users to create their own reviews to the music that speaks to them.  Or, conversely, to vent about music for which they have strong negative feelings.
